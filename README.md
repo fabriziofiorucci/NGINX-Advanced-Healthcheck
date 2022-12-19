@@ -1,4 +1,4 @@
-# NGINX Advanced Healtcheck
+# NGINX Advanced Healthcheck
 
 ## Description
 
