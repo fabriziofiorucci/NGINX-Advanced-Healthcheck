@@ -1,4 +1,4 @@
-# NGINX Advanced Healtcheck demo
+# NGINX Advanced Healtcheck
 
 ## Description
 
